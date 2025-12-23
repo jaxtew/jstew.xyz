@@ -1,2 +1,2 @@
-# jaxtew.github.io
-jstew.xyz landing page
+# jstew.xyz
+Coming soon
