@@ -1,9 +1,17 @@
 ### Howdy!
 
-I'm a full-stack software developer and computer science graduate of Texas A&M with a wide range of interests from cryptography and machine learning to macroeconomics, energy, and Bitcoin.
+I'm a computer science graduate of Texas A&M with professional experience in full-stack software development, business automation, and data center project management. 
 
-In other words, I like to learn and build stuff.
+I have a wide range of professional and amateur interests (in no particular order):
+- Energy
+- AI & Software
+- Industrial Construction
+- Economics & Markets
+- Meteorology
+- Texas A&M Sports
+- Golf
+- Hiking
 
 ---
 
-[contact@jstew.xyz](mailto:contact@jstew.xyz) - [GitHub](https://github.com/jaxtew) - [LinkedIn](https://linkedin.com/in/jaxtew)
+[contact@jstew.xyz](mailto:contact@jstew.xyz) - [LinkedIn](https://linkedin.com/in/jaxtew) - [GitHub](https://github.com/jaxtew)
